@@ -14,3 +14,4 @@ A=juliaSet(R,x,y)
 spy(A)
 ```
 
+You can see the output in this [example notebook](https://github.com/anjandn/JuliaSetPkg/blob/master/example/example.ipynb)
